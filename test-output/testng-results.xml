@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20009" started-at="2017-06-06T13:08:18Z" finished-at="2017-06-06T13:08:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20009" started-at="2017-06-06T13:08:18Z" finished-at="2017-06-06T13:08:38Z">
+      <class name="testcases.TC_001">
+        <test-method status="PASS" signature="StartBrowser()[pri:0, instance:testcases.TC_001@4c70fda8]" name="StartBrowser" is-config="true" duration-ms="14007" started-at="2017-06-06T18:38:04Z" finished-at="2017-06-06T18:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:testcases.TC_001@4c70fda8]" name="test1" duration-ms="10255" started-at="2017-06-06T18:38:18Z" finished-at="2017-06-06T18:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:2, instance:testcases.TC_001@4c70fda8]" name="test2" duration-ms="9737" started-at="2017-06-06T18:38:28Z" finished-at="2017-06-06T18:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="EndBrowser()[pri:0, instance:testcases.TC_001@4c70fda8]" name="EndBrowser" is-config="true" duration-ms="816" started-at="2017-06-06T18:38:38Z" finished-at="2017-06-06T18:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndBrowser -->
+      </class> <!-- testcases.TC_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
